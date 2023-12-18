@@ -1,0 +1,1 @@
+[1,0,0,[["cc.JsonAsset",["_name","json"],1]],[[0,0,1,3]],[[0,"skill",[{"@id":"技能id","id":1,"@name":"技能名","name":"大杀四方","@describe":"技能描述","describe":"技能描述技能描述技能描述技能描述技能描述","@type":"0=主动; 1=被动;","type":0,"@buff":"技能buff效果 0=无buff效果","buff":2,"@icon":"技能图标","icon":"xxx","@effect":"特效","effect":"xxx"}]]],0,0,[],[],[]]
